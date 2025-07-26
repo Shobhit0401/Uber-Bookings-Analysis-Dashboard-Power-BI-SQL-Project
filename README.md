@@ -108,10 +108,11 @@ The data extracted via SQL served as the foundation for Power BI's visual report
 
 **Shobhit** | Data Analyst | Power BI & SQL Enthusiast
 🔗 [LinkedIn](https://www.linkedin.com/in/shobhit6362)
-![Screenshot 2025-07-26 at 01 27 42](https://github.com/user-attachments/assets/7ef84f7a-3301-45f5-a5c4-f7b1b4f6b9c1)
-![Screenshot 2025-07-26 at 01 27 35](https://github.com/user-attachments/assets/8826cf15-01fc-44ce-8ebc-39a36357bf64)
-![Screenshot 2025-07-26 at 01 27 29](https://github.com/user-attachments/assets/2ba91d7a-5278-4304-b9df-670a000740d7)
-![Screenshot 2025-07-26 at 01 27 22](https://github.com/user-attachments/assets/01565a70-12a6-4384-9281-9ec16dbedfe3)
-![Screenshot 2025-07-26 at 01 27 14](https://github.com/user-attachments/assets/c0a2bf38-ce54-4476-8180-1ca3295baf12)
+![Screenshot 2025-07-26 at 01 27 14](https://github.com/user-attachments/assets/871fce1c-95b3-4f30-b0a9-bb93842d529a)
 
 
+![Screenshot 2025-07-26 at 01 27 22](https://github.com/user-attachments/assets/e718a8ef-7eb7-42c6-bd92-f7ba04d7f8b2)
+
+![Screenshot 2025-07-26 at 01 27 29](https://github.com/user-attachments/assets/faa99923-561e-4bfb-a442-2581f4e5258a)
+![Screenshot 2025-07-26 at 01 27 35](https://github.com/user-attachments/assets/ab1a6f28-3ebe-4213-a8db-87affa7237bf)
+![Screenshot 2025-07-26 at 01 27 42](https://github.com/user-attachments/assets/f6428c16-cd79-48e2-8085-7e857ad56068)
